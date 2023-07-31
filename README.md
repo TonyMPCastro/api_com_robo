@@ -1,2 +1,5 @@
-# api_com_robo
+# PIP
+pip install pywin32
+pip install time
+pip install os-sys
  
